@@ -1,0 +1,42 @@
+body{
+  background-image: url("backgound.jpg");
+
+  background-color: #cccccc;
+
+  font-family:'Open Sans';
+  text-align:center;
+  height: 1000vh;
+  color:#FFFFFF;
+}
+h1
+{
+  font-size: 70px;
+
+}
+h2
+{
+  font-size: 50px;
+
+}
+button
+{
+  
+  border:none;
+  padding-top: 10px;
+  padding-button: 10px;
+  color: white;
+  font-weight: bold;
+  width: 200px;
+  margin-button: 5px;
+  border-radius: 5px;
+
+
+}
+#increment-btn
+{
+  background: darkred;
+}
+#save-btn
+{
+  background: darkgreen;
+}
